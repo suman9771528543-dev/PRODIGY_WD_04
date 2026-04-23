@@ -16,8 +16,4 @@ You can view the live project here:
 - **HTML5:** Semantic structure for better accessibility.
 - **CSS3:** Advanced styling including Flexbox, Grid, and animations.
 - **JavaScript:** Logic for interactivity and dynamic elements.
-  ## 📂 Installation
-To run this project locally:
-1. Clone the repository:
-   `git clone https://github.com/suman9771528543-dev/PRODIGY_WD_04.git`
-2. Open `index.html` in your browser.
+  
